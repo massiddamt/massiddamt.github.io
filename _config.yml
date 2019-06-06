@@ -85,9 +85,9 @@ author:
   bio              : "Bioinformatician at CRS4"
   location         : "Cagliari"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           :
   googlescholar    : "https://scholar.google.com/citations?user=nHOHNiMAAAAJ"
-  email            :
+  email            : "matteo.massidda@crs4.it"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : "www.linkedin.com/in/matteo-massidda-bio"
   orcid            : "https://orcid.org/0000-0002-5246-5585"
   pinterest        :
   soundcloud       :
