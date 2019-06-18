@@ -15,3 +15,11 @@ Saba L, Masala M, Capponi V, Marceddu G, <b>Massidda M</b>, Rosatelli MC.
 
 ## Abstracts
 
+<b>[solida.core: download, deploy and use an open-source and ready-to-use set of bioinformatic analysis
+pipelines]</b> <br> 
+Cuccuru G, <b>Massidda M</b>, Atzeni R, Uva P, Fotia G.
+<i>The 18th European Conference on Computational Biology</i>. <b>ISMB/ECCB 2019</b>.
+
+<b>[solida.core: an open-source and ready-to-use set of bioinformatic analysis pipelines]</b> <br> 
+Cuccuru G, <b>Massidda M</b>, Atzeni R, Uva P, Fotia G.
+<i>16th Annual Meeting of the Bioinformatics Italian Society</i>. <b>BITS 2019</b>.
