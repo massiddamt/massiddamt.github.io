@@ -11,21 +11,36 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Ph.D in Molecular and Translational Medicine, University of Cagliari, 2018
+* M.S. in Cellular and Molecular Biolgy, University of Cagliari, 2014
+* B.S. in Biology, University of Cagliari, 2011
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* From September 2018: Fellow
+  * CRS4
+  * Duties included: 
+  * Supervisor: 
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2014-2018: PhD Research
+  * Molecular Genetics Lab - Ospedale Microcitemico A.Cao
+  * Duties included: NGS bioinformatic data analysis
+  * Supervisor: Professor MC. Rosatelli
+ 
+* Sept 2016 - March 2017: PhD Internship
+  * Single Cell Genomics Team - Centro Nacional d'Analisis Genomico (CNAG-CRG)
+  * Duties included: Single-cell data analysis: differential expression, identification of cellular subpopulations
+  * Supervisor: Dr. H. Heyn
+
+* 2012-2014: M.S. Internship
+  * Molecular Genetics Lab - Ospedale Microcitemico A.Cao
+  * Duties included: cfDNA extraction, Long-Range PCR, ARMS PCR, NGS library prep
+  * Supervisor: Professor MC. Rosatelli
+
+* 2011: B.S. Internship
+  * Molecular Biology Lab - University of Cagliari
+  * Duties included: DNA extraction, PCR, electrophoresis, RFLP analysis
+  * Supervisor: Professor A. Padiglia
   
 Skills
 ======
@@ -42,18 +57,8 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
 Teaching
 ======
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
