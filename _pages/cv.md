@@ -19,8 +19,7 @@ Work experience
 ======
 * From September 2018: Fellow
   * CRS4
-  * Duties included: 
-  * Supervisor: 
+  * Duties included: Reproducible bioinformatic pipelines
 
 * 2014-2018: PhD Research
   * Molecular Genetics Lab - Ospedale Microcitemico A.Cao
@@ -44,12 +43,11 @@ Work experience
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Programming:
+  * Python
+  * R
+* Versioning:
+  * git
 
 Publications
 ======
