@@ -4,16 +4,13 @@ title: "Research"
 permalink: /research/
 author_profile: true
 ---
-
-
-
 Research Interests
 ======
 
 Research Projects
 ======
-* [solida-core](https://github.com/solida-core)
-* [NIASMIC](http://niasmic.crs4.it/)
+* [solida-core](https://github.com/solida-core): an open-source and ready-to-use collection of reproducible bioinformatic pipelines
+* [NIASMIC](http://niasmic.crs4.it/): Non-Invasive analysis of tumoral DNA
   
   
 Open-source Contributions
