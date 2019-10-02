@@ -7,6 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
+email: [matteo.massidda@crs4.it](mailto:matteo.massidda@crs4.it)
 
 CRS4 - Biosciences Sector
 
