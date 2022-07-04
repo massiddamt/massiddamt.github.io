@@ -6,12 +6,12 @@ author_profile: true
 ---
 
 ## Publications
-#### 2022
+### 2022
 Dattilo A, Ceccarini G, Scabia G, Magno S, Quintino L, Pelosini C, Salvetti G, Cusano R, <b>Massidda M</b>, Montanelli L, Gilio D, Gatti G, Giacomina A, Costa M, Santini F, Maffei M.<br>
 <b>[Circulating Levels of MiRNAs From 320 Family in Subjects With Lipodystrophy: Disclosing Novel Signatures of the Disease](https://massiddamt.github.io/publication/Maffei_2022)</b> <br> 
 <i>Frontiers in Endocrinology volume 13 (June 2022). doi:10.3389/fendo.2022.866679</i>
 
-#### 2017
+### 2017
 Saba L, Masala M, Capponi V, Marceddu G, <b>Massidda M</b>, Rosatelli MC.<br>
 <b>[Non-invasive prenatal diagnosis of beta-thalassemia by semiconductor sequencing: a feasibility study in the sardinian population](https://massiddamt.github.io/publication/NIPD_2017)</b> <br> 
 <i>European journal of human genetics : EJHG, 25(5), 600–607. doi:10.1038/ejhg.2017.26</i>
@@ -20,7 +20,7 @@ Saba L, Masala M, Capponi V, Marceddu G, <b>Massidda M</b>, Rosatelli MC.<br>
 
 ## Abstracts
 
-#### 2022
+### 2022
 * Atzeni R, <b>Massidda M</b>, Pieroni E, Pisu M, Fotia G.<br>
 <b>A novel affordable and reliable framework for accurate detection and comprehensive analysis of somatic mutations in cancer.</b><br>
 <i>18th Annual Meeting of the Bioinformatics Italian Society, 27-29 June 2022, Verona</i>.<br>
@@ -39,7 +39,7 @@ HAEMATOLOGICA 107, 33-33<br>
 <b>Accepted as Oral Communication</b>
 
 
-#### 2021
+### 2021
 * <b>M. Massidda</b>, G. Cuccuru , R. Atzeni, R. Pal, P. Uva, G. Fotia.<br>
 <b>Bioinformatic NGS data analysis with solida-core</b>.<br>
 <i>European Society of Human Genetics ESHG, 28-31 August 2021</i>.
@@ -52,12 +52,12 @@ EUROPEAN JOURNAL OF HUMAN GENETICS 30 (SUPPL 1), 495-496
 EUROPEAN JOURNAL OF HUMAN GENETICS 30 (SUPPL 1), 435-435
     
 
-#### 2020
+### 2020
 * R. Murru, G. Piras, S. Uda, M. Monne, A. Galitzia, P. Uva, R. Cusano,R. Asproni, M. Murineddu, F. Culurgioni, A. Uras, S. Cardani, A. Bianchi, D. Pulisci , S.A.M. Urru, G. Loghi, I. Tandurella, <b>M. Massidda</b>, E. Lutzu, A.D. Palmas, E. Angelucci, G. La Nasa.<br>
 <b>GENE MUTATIONS ANALYSIS AND NEW INSIGHTS IN CHRONIC LYMPHOCYTIC LEUKEMIA (CLL): PRELIMINARY RESULTS FROM A CLINICAL RESEARCH PROJECT BASED ON NEXT GENERATION SEQUENCING (NGS)</b> <br>
 <i>European Hematology Association, 2020</i>. HAEMATOLOGICA 105, S100-S100
 
-#### 2019
+### 2019
 * Cuccuru G, <b>Massidda M</b>, Atzeni R, Uva P, Fotia G.<br> 
 <b>solida.core: download, deploy and use an open-source and ready-to-use set of bioinformatic analysis
 pipelines</b> <br> 
@@ -68,7 +68,7 @@ pipelines</b> <br>
 <b>solida.core: an open-source and ready-to-use set of bioinformatic analysis pipelines</b> <br> 
 <i>16th Annual Meeting of the Bioinformatics Italian Society</i>. <b>BITS 2019</b>.
 
-#### 2015 & before
+### 2015 & before
 * <b>M. Massidda</b>, G. Marceddu, V. Capponi, M. Masala, L. Saba, M.C. Rosatelli.<br> 
 <b>Development of a pipeline for fetal genotype prediction in NIPD of ß-Thalassemia</b> <br> 
 <i>XVIII Congresso Nazionale SIGU</i>. <b>SIGU 2015</b>.
