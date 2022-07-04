@@ -11,7 +11,9 @@ author_profile: true
 Saba L, Masala M, Capponi V, Marceddu G, <b>Massidda M</b>, Rosatelli MC.
 <i>European journal of human genetics : EJHG, 25(5), 600–607. doi:10.1038/ejhg.2017.26</i>
 
-
+<b>[Circulating Levels of MiRNAs From 320 Family in Subjects With Lipodystrophy: Disclosing Novel Signatures of the Disease](https://massiddamt.github.io/publication/Maffei_2022)</b> <br> 
+Dattilo A, Ceccarini G, Scabia G, Magno S, Quintino L, Pelosini C, Salvetti G, Cusano R, <b>Massidda M</b>, Montanelli L, Gilio D, Gatti G, Giacomina A, Costa M, Santini F, Maffei M.
+<i>Frontiers in Endocrinology volume 13 (June 2022). doi:10.3389/fendo.2022.866679</i>
 
 ## Abstracts
 
