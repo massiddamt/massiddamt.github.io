@@ -9,17 +9,20 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* Ph.D in Molecular and Translational Medicine, University of Cagliari, 2018
-* M.S. in Cellular and Molecular Biolgy, University of Cagliari, 2014
-* B.S. in Biology, University of Cagliari, 2011
-
 Work experience
 ======
-* From September 2018: Fellow
+* October 2020-Present: Bioinformatician Researcher
   * CRS4
   * Duties included: Reproducible bioinformatic pipelines
+
+* November 2020-December 2021: Bioinformatician Consultant
+  * IRCCS Giannina Gaslini
+  * Duties included: Interpretation of genetic variants for Rare Diseases
+
+* September 2018-2020: Research Fellow
+  * CRS4
+  * Duties included: Reproducible bioinformatic pipelines
+  * Supervisor: Dr. P. Uva and G. Cuccuru
 
 * 2014-2018: PhD Research
   * Molecular Genetics Lab - Ospedale Microcitemico A.Cao
@@ -40,14 +43,25 @@ Work experience
   * Molecular Biology Lab - University of Cagliari
   * Duties included: DNA extraction, PCR, electrophoresis, RFLP analysis
   * Supervisor: Professor A. Padiglia
+
+Education
+======
+* Ph.D in Molecular and Translational Medicine, University of Cagliari, 2018
+* M.S. in Cellular and Molecular Biolgy, University of Cagliari, 2014
+* B.S. in Biology, University of Cagliari, 2011
+
+
   
 Skills
 ======
 * Programming:
   * Python
   * R
+  * bash
 * Versioning:
   * git
+* Workflow Manager:
+  * Snakemake
 
 Publications
 ======

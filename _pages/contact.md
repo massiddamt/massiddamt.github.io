@@ -9,9 +9,7 @@ author_profile: true
 
 email: [matteo.massidda@crs4.it](mailto:matteo.massidda@crs4.it)
 
-[CRS4 - Biosciences Sector](http://www.crs4.it/it/ricerca/biosciences/)
-
-Data Engineering & Computing
+[CRS4 - Next Generation Sequencing Core](https://www.crs4.it/research/computational-infrastructure-and-smart-projects/next-generation-sequencing-core/)
 
 POLARIS Building 1
 
