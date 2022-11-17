@@ -82,13 +82,13 @@ analytics:
 author:
   name             : "Matteo Massidda, PhD"
   avatar           : "crs4-in-miniatura.JPG"
-  bio              : "Bioinformatician at CRS4"
-  location         : "Cagliari"
-  employer         :
+  bio              : "Bioinformatician"
+  location         : "Sassari"
+  employer         : "University of Sassari"
   pubmed           :
   googlescholar    : "https://scholar.google.com/citations?user=nHOHNiMAAAAJ"
-  email            : "matteo.massidda@crs4.it"
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  email            : "mmassidda@uniss.it"
+  researchgate     : "https://www.researchgate.net/profile/Matteo-Massidda"
   uri              :
   bitbucket        :
   codepen          :
