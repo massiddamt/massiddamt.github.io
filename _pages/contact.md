@@ -7,13 +7,11 @@ author_profile: true
 
 {% include base_path %}
 
-email: [matteo.massidda@crs4.it](mailto:matteo.massidda@crs4.it)
+email: [mmassidda@uniss.it](mailto:mmassidda@uniss.it)
 
-[CRS4 - Next Generation Sequencing Core](https://www.crs4.it/research/computational-infrastructure-and-smart-projects/next-generation-sequencing-core/)
+Department of Medical, Surgery and Experimental Sciences - General Pathology
 
-POLARIS Building 1
+University of Sassari
 
-Loc. Piscina Manna
-
-09010 Pula (CA), Italy
+Via P. Manzella 4, 07100 Sassari (SS), Italy
 

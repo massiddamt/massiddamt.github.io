@@ -7,6 +7,12 @@ author_profile: true
 
 ## Publications
 ### 2022
+Atzeni, R., <b>Massidda, M.</b>, Fotia, G., & Uva, P.<br>
+<b>[VariantAlert: A web-based tool to notify updates in genetic variant annotations](https://massiddamt.github.io/publication/VariantAlert_2022)</b> <br>
+<i>Human Mutation, 1– 8.
+doi:10.1002/humu.24495</i>
+
+
 Dattilo A, Ceccarini G, Scabia G, Magno S, Quintino L, Pelosini C, Salvetti G, Cusano R, <b>Massidda M</b>, Montanelli L, Gilio D, Gatti G, Giacomina A, Costa M, Santini F, Maffei M.<br>
 <b>[Circulating Levels of MiRNAs From 320 Family in Subjects With Lipodystrophy: Disclosing Novel Signatures of the Disease](https://massiddamt.github.io/publication/Maffei_2022)</b> <br> 
 <i>Frontiers in Endocrinology volume 13 (June 2022). doi:10.3389/fendo.2022.866679</i>

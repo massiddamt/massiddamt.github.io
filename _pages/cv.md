@@ -11,7 +11,12 @@ redirect_from:
 
 Work experience
 ======
-* October 2020-Present: Bioinformatician Researcher
+
+* November 2022-Present : Bioinformatician Post-Doc Researcher
+  * University of Sassari
+  * Duties included: Bioinformatic analysis
+
+* October 2020-October 2022: Bioinformatician Researcher
   * CRS4
   * Duties included: Reproducible bioinformatic pipelines
 
