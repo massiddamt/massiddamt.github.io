@@ -6,6 +6,26 @@ author_profile: true
 ---
 
 ## Publications
+### 2024
+Rossano Atzeni; Matteo Massidda; Enrico Pieroni; Vincenzo Rallo; Massimo Pisu; Andrea Angius<br>
+<b>[A Novel Affordable and Reliable Framework for Accurate Detection and Comprehensive Analysis of Somatic Mutations in Cancer](https://massiddamt.github.io/publication/Musta_2024)
+<i>International Journal of Molecular Sciences, 2024, 25(15), 8044. doi:10.3390/ijms25158044
+
+### 2023
+
+Esophageal Cancer with Early Onset in a Patient with Cri du Chat Syndrome
+doi:10.3390/diseases12010009
+
+Whole genome sequencing in ROHHAD trios proved inconclusive: what’s beyond?
+doi:10.3389/fgene.2023.1031074
+
+Harnessing Minimal Residual Disease as a Predictor for Colorectal Cancer: Promising Horizons Amidst Challenges
+doi:10.3390/medicina59101886
+
+
+Next Generation Sequencing for miRNA Detection on the Exhaled Breath Condensate: A Pilot Study
+doi:10.1177/25168657231160985
+
 ### 2022
 Atzeni, R., <b>Massidda, M.</b>, Fotia, G., & Uva, P.<br>
 <b>[VariantAlert: A web-based tool to notify updates in genetic variant annotations](https://massiddamt.github.io/publication/VariantAlert_2022)</b> <br>
