@@ -17,16 +17,19 @@ Danesino, Cesare, Monica Gualtierotti, Matteo Origi, Angelina Cistaro, Michela M
 <i>Diseases 2024, 12(1), 9. doi:10.3390/diseases12010009 </i>
 
 
-
-Whole genome sequencing in ROHHAD trios proved inconclusive: what’s beyond?
-doi:10.3389/fgene.2023.1031074
-
-Harnessing Minimal Residual Disease as a Predictor for Colorectal Cancer: Promising Horizons Amidst Challenges
-doi:10.3390/medicina59101886
+Grossi A. , Rusmini M. , Cusano R. , <b>Massidda M.</b> , Santamaria G. , Napoli F. , Angelelli A. , Fava D. , Uva P. , Ceccherini I. , Maghnie M.<br>
+<b>[Whole genome sequencing in ROHHAD trios proved inconclusive: what’s beyond?](https://massiddamt.github.io/publication/Rohhad_2023)</b> <br>
+<i>Frontiers in Genetics, Sec. Genetics of Common and Rare Diseases. 2023,14. doi:10.3389/fgene.2023.1031074</i>
 
 
-Next Generation Sequencing for miRNA Detection on the Exhaled Breath Condensate: A Pilot Study
-doi:10.1177/25168657231160985
+Wen, Xiaofen, Donatella Coradduzza, Jiaxin Shen, Antonio Mario Scanu, Maria Rosaria Muroni, <b>Matteo Massidda</b>, Vincenzo Rallo, Ciriaco Carru, Andrea Angius, and Maria Rosaria De Miglio.<br>
+<b>[Harnessing Minimal Residual Disease as a Predictor for Colorectal Cancer: Promising Horizons Amidst Challenges](https://massiddamt.github.io/publication/wen_2023)</b> <br>
+<i>Medicina 2023, 59(10), 1886. doi:10.3390/medicina59101886</i>
+
+
+Roberto Cherchi, Roberto Cusano, Sandro Orrù, Paolo A Ferrari, <b>Matteo Massidda</b>, Giorgio Fotia, Sara De Matteis and Pierluigi Cocco.<br>
+<b>[Next Generation Sequencing for miRNA Detection on the Exhaled Breath Condensate: A Pilot Study](https://massiddamt.github.io/publication/arrdia_2023)</b> <br>
+<i>Epigenetics Insights. 2023;16. doi:10.1177/25168657231160985</i>
 
 ### 2022
 Atzeni, R., <b>Massidda, M.</b>, Fotia, G., & Uva, P.<br>
