@@ -12,7 +12,11 @@ redirect_from:
 Work experience
 ======
 
-* November 2022-Present : Bioinformatician Post-Doc Researcher
+* September 2024-Present : Bioinformatician Post-Doc Researcher
+  * IRGB-CNR
+  * Duties included: Bioinformatic analysis
+
+* November 2022-September 2024 : Bioinformatician Post-Doc Researcher
   * University of Sassari
   * Duties included: Bioinformatic analysis
 

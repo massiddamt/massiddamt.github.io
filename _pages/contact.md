@@ -7,11 +7,13 @@ author_profile: true
 
 {% include base_path %}
 
-email: [mmassidda@uniss.it](mailto:mmassidda@uniss.it)
+email: [matteomassidda@cnr.it](mailto:matteomassidda@cnr.it)
 
-Department of Medical, Surgery and Experimental Sciences - General Pathology
+Human Genetics
 
-University of Sassari
+Institute of Biomedical and Genetic Research (IRGB - CNR)
 
-Via P. Manzella 4, 07100 Sassari (SS), Italy
+Cittadella Universitaria di Monserrato, S.S. 554 bivio per Sestu Km 4,500 
+
+09042 Monserrato (CA), Italy
 
