@@ -7,14 +7,16 @@ author_profile: true
 
 ## Publications
 ### 2024
-Rossano Atzeni; Matteo Massidda; Enrico Pieroni; Vincenzo Rallo; Massimo Pisu; Andrea Angius<br>
-<b>[A Novel Affordable and Reliable Framework for Accurate Detection and Comprehensive Analysis of Somatic Mutations in Cancer](https://massiddamt.github.io/publication/Musta_2024)
-<i>International Journal of Molecular Sciences, 2024, 25(15), 8044. doi:10.3390/ijms25158044
+Rossano Atzeni; <b>Matteo Massidda</b>; Enrico Pieroni; Vincenzo Rallo; Massimo Pisu; Andrea Angius.<br>
+<b>[A Novel Affordable and Reliable Framework for Accurate Detection and Comprehensive Analysis of Somatic Mutations in Cancer](https://massiddamt.github.io/publication/Musta_2024)</b> <br>
+<i>International Journal of Molecular Sciences, 2024, 25(15), 8044. doi:10.3390/ijms25158044 </i>
 
 ### 2023
+Danesino, Cesare, Monica Gualtierotti, Matteo Origi, Angelina Cistaro, Michela Malacarne, <b>Matteo Massidda</b>, Katia Bencardino, Domenico Coviello, Giovanni Albani, Irene Giovanna Schiera, Alexandra Liava and Andrea Guala.<br>
+<b>[Esophageal Cancer with Early Onset in a Patient with Cri du Chat Syndrome](https://massiddamt.github.io/publication/CriDuChat_2023)</b> <br>
+<i>Diseases 2024, 12(1), 9. doi:10.3390/diseases12010009 </i>
 
-Esophageal Cancer with Early Onset in a Patient with Cri du Chat Syndrome
-doi:10.3390/diseases12010009
+
 
 Whole genome sequencing in ROHHAD trios proved inconclusive: what’s beyond?
 doi:10.3389/fgene.2023.1031074
