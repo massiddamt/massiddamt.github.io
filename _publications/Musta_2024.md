@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/Musta_2024
 citation: 'Atzeni, R., <b>Massidda, M.</b>, Pieroni, E., Rallo, V., Pisu, M., & Angius, A. (2024). A Novel Affordable and Reliable Framework for Accurate Detection and Comprehensive Analysis of Somatic Mutations in Cancer. <i>International Journal of Molecular Sciences, 25(15), 8044., 10.3390/ijms25158044</i>.'
 date: 2024-07-24
-venue: 'Int. J. Mol. Sci (Jul 2024)'
+venue: 'Int. J. Mol. Sci'
 
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "Esophageal Cancer with Early Onset in a Patient with Cri du Chat Syndrome"
 collection: publications
-permalink: /publication/CriDuChat2023
+permalink: /publication/CriDuChat_2023
 citation: 'Danesino, C., Gualtierotti, M., Origi, M., Cistaro, A., Malacarne, M., Massidda, M., Bencardino, K., Coviello, D., Albani, G., Schiera, I. G., Liava, A., & Guala, A. (2024). Esophageal Cancer with Early Onset in a Patient with Cri du Chat Syndrome. <i>Diseases, 12(1), 9. https://doi.org/10.3390/diseases12010009</i>'
 date: 2023-12-29
 venue: 'Diseases 2024, 12(1), 9'
